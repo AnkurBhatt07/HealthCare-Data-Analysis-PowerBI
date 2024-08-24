@@ -82,7 +82,7 @@ Merged final_hospital_data and final_patientData based on common patientId colum
 
 
 **Charts and Dashboards visualizations for Insights**
-![Dashboard Screenshot](https://raw.githubusercontent.com/username/repository/main/images/dashboard.png](https://github.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/blob/f45361f849c6a5d4528591220cb203753bf20acb/PowerBI%20images/Screenshot%202024-08-24%20021625.png)  
+![Dashboard Screenshot]([https://raw.githubusercontent.com/username/repository/main/images/dashboard.png](https://github.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/blob/f45361f849c6a5d4528591220cb203753bf20acb/PowerBI%20images/Screenshot%202024-08-24%20021625.png](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20021625.png))
 
 
 
