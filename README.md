@@ -82,8 +82,88 @@ Merged final_hospital_data and final_patientData based on common patientId colum
 
 
 **Charts and Dashboards visualizations for Insights**
-![Dashboard Screenshot]([https://raw.githubusercontent.com/username/repository/main/images/dashboard.png](https://github.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/blob/f45361f849c6a5d4528591220cb203753bf20acb/PowerBI%20images/Screenshot%202024-08-24%20021625.png](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20021625.png))
+![Dashboard Screenshot](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20021625.png)
+
+Based on the dataset , the Adults are the highest number of patients . They are followed by Senior category and then Child.
+
+![Bill analysis for treatments](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20021928.png)
+
+![Gender Distribution for Each Diagnosis](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20022257.png)
+
+![Patient Count By BloodType](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20022318.png)
+
+The most number of patients are having the B- , A+ and AB+ bloodTypes.The least common bloodtype in patients is O+ and O-.
+
+![Recovery Rating by TreatmentType](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20022344.png)
+
+Councelling has the highest average recovery Ratings while surgery has the least.
+
+![Room Efficiency](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20022407.png)
+
+Green Valley Medical Center has the highest room efficiency while Maple Grove Health Facility has the lowest room efficiency
+
+![Recovery Ratings by Doctors](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20022459.png)
+
+The average recovery rating for doctors having less number of patients under supervision are higher compared to the doctors having higher number of patients under supervision.
+
+The maximum number of patients under a doctor's supervision is 7.
+
+Three doctors namely David Moore , Jennifer Johnson and Michael Thomas have 7 patients each under there supervision.
+
+![Avg Treatment Cost](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20022532.png)
+
+Cedar Sinai Clinic hospital is the most expensive hospital based on the avg total bill.
+While Riverside Hospital is the cheapest among all the hospital in case of avg total bill.
+The average daily cost however in each hospital is nearly similar (around 1K).
 
 
+![Trend in Patient Admission](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20022613.png)
+
+The number of patients is significantly lower in the winter months. The peaks are in summer months namely March and May.january also has quite high number of patient admissions.Used slicer for getting admission trend for any specific hospital
+
+![Correlation between age and recovery ratings](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20022633.png)
+
+The plot shows that the avg recovery rating improves with patient age .The patients with higher age are giving higher recovery ratings .
+
+![Avg Recovery Rating by Gender and AgeGroup](https://github.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/blob/main/PowerBI%20images/Screenshot%202024-08-24%20112602.png?raw=true)
+
+The Avg Ratings by each gender and each age group mostly lies around 5 . The senior females have higher recovery ratings compared to other age buckets . While Adult males have higher recovery ratings compared to other age buckets.
 
 
+![Performance Analysis of each hospital](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20112637.png)
+
+Average Daily cost of Silver Oak and RiverSide Hospital are higher than others . While Maple Grove has the least average daily cost of Treatment.
+Riverside hospital is given highest recovery ratings by patients , followed by MapleGrove Hospital.The least avg recovery Ratings is for Green Valley Medical Center.
+GreenValley Medical Center has the Highest Patient Load , followed by silver Oak hospital.
+
+![Cohort Analysis of Patients](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20112753.png)
+
+Showing the avg total bill on quarterly basis and also the avg recovery ratings on quarterly basis.
+
+![Medication Analysis](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Screenshot%202024-08-24%20122113.png)
+
+Analysed the medications prescribed to the patients.Calculated the most prescribed Medicines overall . Most prescribed medicines for a specific ailment , for a specific treatment and for a specific age group.
+used slicers to get niche information regarding it.Calculated the average recovery rating on the application of given medications.Provided us with the most effective medicines based on recovery rating given by patients.
+Predisone, Sertraline , Omeprazole are the top 3 most prescribed medicines overall. 
+Based on the top 10 most popular medicines overall , Furosemide and Warfarin are given the highest recovery ratings.
+
+![Time Based Analysis](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Time%20Based%20Analysis.png)
+
+Time based analysis of patient data showing Trend in Patient admissions,Variations in medical cost over the years for each diagnosis.
+Forecasting of average recovery ratings and forecasting of patients admission for next year.
+
+![Patient Demographic Analysis](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Patient%20Demographics%20and%20HealthCare%20Insights.png)
+
+Visualized number of patients by treatment type , age distribution on basis of diagnosis , distribution of patients by gender type and correlation between age and recovery Ratings
+Provided information about the number of patients and room availability.Used slicers to get all these information for a specific year , specific hospital and specific age group.
+
+![Hospital Performance Comparison](https://raw.githubusercontent.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/main/PowerBI%20images/Performance%20Comparison%20by%20Hospitals.png)
+
+Calculated the avg treatment cost in each hospital , avg recovery rating for each diagnosis, avg costs for each treatment type and summary of hospital performace using patient load and avg recovery Rating.
+used various slicer for getting specific information . slicers for hospital , diagnosis and year were used .
+
+**Conclusion**
+
+This project showcases the use of Power BI for comprehensive data analysis and dashboard creation to delve into detailed datasets from the healthcare industry. By merging and cleaning the data, employing DAX functions, and designing interactive dashboards, we have extracted valuable insights into patient demographics, treatment outcomes, hospital performance, and cost implications.
+
+These insights can significantly enhance the understanding of patient care dynamics and operational efficiencies within healthcare facilities. The analysis highlights critical trends and patterns, aiding healthcare providers in making informed decisions to improve patient outcomes and optimize hospital operations.
