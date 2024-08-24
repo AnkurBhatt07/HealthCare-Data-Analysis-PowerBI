@@ -82,8 +82,8 @@ Merged final_hospital_data and final_patientData based on common patientId colum
 
 
 **Charts and Dashboards visualizations for Insights**
+![Distribution of Patients wrt Age]([https://github.com/username/repository/blob/main/images/dashboard.png](https://github.com/AnkurBhatt07/HealthCare-Data-Analysis-PowerBI/blob/main/PowerBI%20images/Screenshot%202024-08-24%20021625.png))
 
-![Distribution of Patients wrt Age](PowerBI images/Screenshot 2024-08-24 021625.png)
 
 
 
