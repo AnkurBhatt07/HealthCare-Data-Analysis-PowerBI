@@ -65,6 +65,9 @@ Age > 64 , ‘Senior’
 Extracted year from the admission date column and named it ‘AdmissionYear’
 Calculated daysinHospital .For all observations we find that it contained only one unique value i.e 1 .
 
+**MedicationAnalysis**
+Created this query to analyse the most prescribed medicines to the patients . Also to specific informations like what are the top prescribed medicines for a particular diagnosis , or a particular TreatmentType , or for a particular age group . Created a chart based on it and used various slicers to get niche information regarding it.
+
 **Overall_data**
 Merged final_hospital_data and final_patientData based on common patientId column
 1.	Many patients have 0 as age, indicating they might be infants. Checked the diseases they have developed and confirmed with Google that infants might not develop these diseases. Therefore, age 0 is considered an inconsistency. I replaced the age with 0 as value with average age value.
@@ -76,6 +79,11 @@ Merged final_hospital_data and final_patientData based on common patientId colum
 7.	Noted that for all rows, the time interval between AdmissionDate and DischargeDate is 1 day only. The TotalBill varies for different patients, indicating possible additional costs like medicine, room type, or extra facilities.
 8.	Ensured there are no duplicate rows.
 
+
+
+**Charts and Dashboards visualizations for Insights**
+
+![Distribution of Patients wrt Age](PowerBI images/Screenshot 2024-08-24 021625.png)
 
 
 
